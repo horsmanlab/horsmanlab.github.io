@@ -9,12 +9,12 @@
 
   <title>
     
-      Protocols &middot; The Horsman Lab
+       &middot; The Horsman Lab
     
   </title>
 
   
-  <link rel="canonical" href="http://localhost:4000/protocols/">
+  <link rel="canonical" href="http://localhost:4000/Protocols/expression/">
   
 
   <link rel="stylesheet" href="http://localhost:4000/public/css/poole.css">
@@ -98,7 +98,7 @@
     
       
         
-          <a class="sidebar-nav-item active" href="http://localhost:4000/protocols/">Protocols</a>
+          <a class="sidebar-nav-item" href="http://localhost:4000/protocols/">Protocols</a>
         
       
     
@@ -134,10 +134,29 @@
 
       <div class="container content">
         <div class="page">
-  <h1 class="page-title">Protocols</h1>
-  <h2 id="2021">2021</h2>
+  <h1 class="page-title"></h1>
+  <p><strong>PROTEIN EXPRESSION TESTS</strong></p>
 
-<p><a href="/Protocols/expression/">Expression tests</a></p>
+<h2 id="day-1">Day 1</h2>
+<ul>
+  <li>pick a colony (e.g. E. coli BL21(DE3) or similar) from a recently plated transformation into ~3 mL LB with appropriate antibiotic</li>
+  <li>incubate with shaking at 37 C overnight</li>
+</ul>
+
+<h2 id="day-2">Day 2</h2>
+<ul>
+  <li>inoculate 50 ml LB+antibiotic with 1 mL of overnight culture</li>
+  <li>incubate with shaking at desired temperature (typically 18 or 37 C)</li>
+  <li>when OD600 is ~0.4-0.6 (mid-log):
+  (i) remove 1 mL of culture and spin down (about 30 sec max speed in microcentrifuge) in eppendorf tube; carefully remove ALL supernatant (remove last bit with pipette) and freeze this pellet as your “pre-induction” sample
+  (ii) add desired amount of IPTG (typically 0.1 - 1 mM)</li>
+  <li>At desired timepoints (e.g. 4 hours, overnight, etc), determine OD600 value and then prepare a “post-induction” pellet as above, using a 1 mL at OD600 = 0.5 equivalent. For example, if the OD is 1.0, you would spin down 0.5 mL instead of 1 mL</li>
+</ul>
+
+<h2 id="day-3">Day 3</h2>
+<ul>
+  <li>run SDS-PAGE gel of pre-induction vs post-induction samples. Hopefully this will show you a big band of expressed protein only in the post-induction sample. If so, you can go on to evaluate solubility.</li>
+</ul>
 
 </div>
 
