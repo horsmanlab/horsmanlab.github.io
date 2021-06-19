@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Screening for inserts: the phenol-chloroform method
 
 ### Day 1
