@@ -8,6 +8,6 @@ title: Protocols
 
 [Expression tests](/Protocols/expression.md)<br/>
 
-[Screening overnight liquid cultures from single colonies for inserts](/Protocols/yihua.md)<br/>
+[Phenol-chloroform screening for inserts](/Protocols/yihua.md)<br/>
 
 
