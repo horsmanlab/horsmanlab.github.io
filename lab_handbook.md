@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Handbook
+title: Lab Culture & Expectations
 ---
 
 
@@ -64,7 +64,8 @@ Meetings are mandatory for all members and provide an opportunity to share ideas
     Please verify these details (including availability) on the supplier website prior to contacting me.<br/>
     
 ### Professionalism and Code of Conduct<br/>
-- Lab members must treat all others respectfully.<br/>
-- Speak to me if you have concerns about other lab members.<br/>
-- I will work with you to set guidelines for work hours, sick leave, and vacation time. I recognize that other aspects to your life are important and must never be neglected. We also acknowledge that the amount of time invested in research is correlated to research outcomes and degree completion times.<br/>
+- We treat each other with respect. Disrespectful conduct will not be tolerated. <br/>
+- Speak to me if you have concerns about your interactions with other lab members.<br/>
+- If you have concerns about your interactions with me, you may contact your program coordinator or Department chair. The [Office of Dispute Resolution and Sexual Violence Support](https://students.wlu.ca/wellness-and-recreation/dispute-resolution/index.html) is an excellent resource.
+- I will work with you to set work hours and leave (illness, vacation time). Other aspects to your life are equally important and should be carefully protected. The amount of time invested in research is correlated to research outcomes and degree completion times.<br/>
 
