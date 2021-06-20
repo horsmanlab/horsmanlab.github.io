@@ -3,7 +3,7 @@ layout: post
 title: Welcome to the Horsman Lab!
 ---
 
-We're a group of scientists at [Wilfrid Laurier University](http://www.wlu.ca) trying to understand microbial biosynthetic chemistry.
+We're a research group at [Wilfrid Laurier University](http://www.wlu.ca) trying to understand microbial biosynthetic chemistry.
 <br/><br/>
 
 

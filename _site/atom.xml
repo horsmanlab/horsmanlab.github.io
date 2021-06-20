@@ -4,7 +4,7 @@
  <title>The Horsman Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-06-19T23:13:32-04:00</updated>
+ <updated>2021-06-20T15:36:25-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/2021/06/19/introducing-lanyon/"/>
    <updated>2021-06-19T00:00:00-04:00</updated>
    <id>http://localhost:4000/2021/06/19/introducing-lanyon</id>
-   <content type="html">&lt;p&gt;We’re a group of scientists at &lt;a href=&quot;http://www.wlu.ca&quot;&gt;Wilfrid Laurier University&lt;/a&gt; trying to understand microbial biosynthetic chemistry.
+   <content type="html">&lt;p&gt;We’re a research group at &lt;a href=&quot;http://www.wlu.ca&quot;&gt;Wilfrid Laurier University&lt;/a&gt; trying to understand microbial biosynthetic chemistry.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/MD_fig.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;

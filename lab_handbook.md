@@ -4,7 +4,7 @@ title: Lab Culture & Expectations
 ---
 
 
-The purpose of this document is to outline a set of core values and expectations that will help guide trainees towards a successful research experience in the Horsman lab. This includes both high-level guiding principles as well as more practical considerations such as approaches to communication and data management.<br/>
+The purpose of this document is to outline lab values and expectations that will help guide trainees towards a successful research experience. This includes guiding principles as well as more practical considerations such as approaches to communication and data management.<br/>
 
 
 ## Core Values<br/>
@@ -31,9 +31,12 @@ Despite our relatively narrow technical skills and research 'comfort zones', we 
 ### Research<br/>
 - I expect at least one first author publication from MSc students, but undergraduates should also aspire to this metric.<br/>
 - Students should develop clear research goals and place them in a short- vs long-term framework with anticipated completion times (see intentionality core value above)
-- Everyone should keep up with the primary research literature, ideally by regularly (e.g. daily) blocking off time to read. This is one of the most important habits you can develop, and reading widely helps you write better.<br/>
-- Similiary you should write regularly. A good way to do this is by updating an OSF wiki with background and results sections and include references. The process of writing can lead to better understanding and provide insight.<br/>
 - I expect students to develop independence. I will not micromanage unless required temporarily in the early stages of your training. I expect you to take ownership of your project and anticipate what is needed for completion within your degree/placement timeframe.
+- Everyone should keep up with the primary research literature, ideally by regularly (e.g. daily) blocking off time to read. This is one of the most important habits you can develop, and reading widely helps you write better.<br/>
+- In addition to regular progress reports (see below), you should schedule writing more frequently. One way to do this is by updating progress in the OSF, using the wiki to document background, methods, and results sections with links to references. The process of writing helps you better understand your project and can lead to important insights.<br/>
+> *"I write to understand as much as to be understood"<br/> -Elie Wiesel*<br/>
+
+
 
 
 ### Meetings<br/>
@@ -49,7 +52,7 @@ Meetings are mandatory for all members and provide an opportunity to share ideas
 
 ### Record Keeping & Documenting Progress<br/>
 - **Lab notebook** - All lab members are required to keep an accurate and detailed lab notebook. This is the legal record of research that belongs to the laboratory. This notebook needs to contain sufficient details to enable experimental replication by another person. I will provide a notebook with carbon copy sheets that you may take with you when you leave the lab.<br/>
-- **OSF repository** - Increasingly we generate data that requires digital storage. Each lab member will be given access to a digitial repository at the Open Science Framework (osf.io) and a lab Dropbox folder. Each lab member should maintain and update an OSF project page as a more flexible and accessible record of your research project.<br/>
+- **OSF repository** - Increasingly we generate data that requires digital storage. Each lab member will be given access to a digitial repository at the Open Science Framework (osf.io) and a lab Dropbox folder. Each lab member should maintain and update an OSF project page as a more flexible and remotely accessible record of your research project.<br/>
 - **Lab inventory** - New chemicals should be added to the inventory immediately upon receipt. Important lab strains should be archived as glycerol stocks in the -80 C freezer and documented in the inventory.<br/>
 - **Progress Reports** - A short progress report should be submitted at the end of each semester. You can use your semester plan (see intentionality above) to broadly structure the report around what you planned, what  you accomplished, and where you fell short and why. Details on its format can be found here.<br/>
 
