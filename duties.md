@@ -21,15 +21,15 @@ title: Duties
   </thead>
   <tbody>
     <tr>
+      <td align="center">June 11</td>
       <td align="center"></td>
-      <td align="center">date 1</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center">date 2</td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     </tbody>
@@ -50,14 +50,14 @@ title: Duties
   <tbody>
     <tr>
       <td align="center"></td>
-      <td align="center">date 1</td>
+      <td align="center">June 18</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center">date 2</td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     </tbody>
@@ -78,14 +78,14 @@ title: Duties
   <tbody>
     <tr>
       <td align="center"></td>
-      <td align="center">date 1</td>
       <td align="center"></td>
       <td align="center"></td>
+      <td align="center">June 18</td>
     </tr>
     <tr>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center">date 2</td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     </tbody>
@@ -136,15 +136,15 @@ title: Duties
   <tbody>
     <tr>
       <td align="center">Jun 25</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center">&#x2714;</td>
-      <td align="center"></td>
-      <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Jul 2</td>
       <td align="center"></td>
-      <td align="center">&#x2714;</td>
+      <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
@@ -167,15 +167,15 @@ title: Duties
   <tbody>
     <tr>
       <td align="center">Jun 25</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center">&#x2714;</td>
-      <td align="center"></td>
-      <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Jul 2</td>
       <td align="center"></td>
-      <td align="center">&#x2714;</td>
+      <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
