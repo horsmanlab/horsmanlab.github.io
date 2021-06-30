@@ -69,7 +69,19 @@ title: Meetings
 <br/>
 
 ## Status Meetings
-**Time:** Tuesday 1:30 pm via Zoom (15 minute time limit)<br/>
+**Time:** Tuesday 1:30 pm via Zoom (15 minutes)<br/>
+Status meetings are designed to be short updates to keep you on track. By stating your own weekly goals and then revisiting the following week as a group, it helps you understand realistic progress and holds you accountable. Each lab member will be expected to concisely answer the three following high-level questions:
+
+(i) What have you done since the last status meeting?<br/>
+(ii) What obstacles have you encountered?<br/>
+(iii) What will you do before our next meeting?<br/>
+
+For this to work, please adhere to the following guidelines: <br/>
+
+- Craft a semester plan with your key research objectives for the semester (I can work with you on this if you like). ***Your weekly updates should be focused on your progress towards meeting these objectives and nothing else***. You don't have to prove to me that you are busy or working hard; progressing towards your goals is all that matters.<br/>
+- Prepare ahead of time so that you can communicate clearly in 1-3 minutes. You shouldn't be looking things up during the meeting, everything should be ready and any visual aids prepared.
+- Your answers to these questions should be at a high-level to address progress towards meeting your semester goals. If you need to discuss detailed technical issues we can schedule a separate meeting.
+
 
 <br/>
 
