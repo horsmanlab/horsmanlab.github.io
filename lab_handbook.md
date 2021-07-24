@@ -41,7 +41,7 @@ Despite our relatively narrow technical skills and research 'comfort zones', we 
 
 ### Meetings<br/>
 Meetings are mandatory for all members and provide an opportunity to share ideas and identify and resolve problems.
-- **Group meetings** (weekly, ~1 hour) - Members will present research progress or literature according to the posted schedule.
+- **Group meetings** (weekly, ~1 hour) - Members will present research progress or literature according to the posted schedule. The research meetings should be thoughtful and pay attention to the big picture and new ideas. I am more interested in your deep thinking and creativity than showing off how much work you have done.
 - **Status meetings** (weekly, 15 min) - Each member will concisely answer the following three questions:<br/>
     (i) What did you do since our last status meeting?<br/>
     (ii) Do you have any obstacles?<br/>
