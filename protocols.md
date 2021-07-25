@@ -10,4 +10,4 @@ title: Protocols
 
 [Phenol-chloroform screening for inserts](/Protocols/yihua.md)<br/>
 
-[UPS bypass protocol for re-starting LC-MS](/Protocols/LCMS.md)<br/>
+[LC-MS and UPS power guide](/Protocols/LCMS.md)<br/>
