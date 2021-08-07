@@ -9,6 +9,9 @@ title: Publications
 Li S, Horsman GP (2021) [An inventory of early branch points in microbial phosphonate biosynthesis](https://www.biorxiv.org/content/10.1101/2021.04.07.438883v2) *bioRxiv* doi.org/10.1101/2021.04.07.438883
 <br/>
 
+Li P, Chen M, Tang W, Guo Z, Zhang Y, Wang M, Horsman GP, Zhong J, Lu Z, Chen Y (2021) [Initiating polyketide biosynthesis by on-line methyl esterification](https://www.nature.com/articles/s41467-021-24846-7) *Nature Communications* 12, 4499
+<br/>
+
 Ding Y, Li X, Horsman GP, Li P, Wang M, Li J, Zhang Z, Liu W, Wu B, Tao Y, Chen Y (2021) [Construction of an alternative NAD+ de novo biosynthesis pathway](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202004632) *Advanced Science* 202004632 <br/>
 
 Wang D, Qi J, Han W, Gao JM, Horsman GP (2020) [Kanamycin-induced production of 2',3'-cyclic AMP in Escherichia coli](https://www.sciencedirect.com/science/article/abs/pii/S0006291X20308846) *Biochemical and Biophysical Research Communications* 527, 854-860<br/>
