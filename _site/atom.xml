@@ -4,7 +4,7 @@
  <title>The Horsman Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-08-07T11:22:26-04:00</updated>
+ <updated>2021-08-09T14:11:41-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Welcome to the Horsman Lab!</title>
-   <link href="http://localhost:4000/2021/07/09/welcome/"/>
-   <updated>2021-07-09T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2021/07/09/welcome</id>
+   <link href="http://localhost:4000/2021/08/09/welcome/"/>
+   <updated>2021-08-09T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/08/09/welcome</id>
    <content type="html">&lt;p&gt;We’re a research group at &lt;a href=&quot;http://www.wlu.ca&quot;&gt;Wilfrid Laurier University&lt;/a&gt; trying to understand microbial biosynthetic chemistry.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -26,14 +26,15 @@
  
  <entry>
    <title>Upcoming Power Outages</title>
-   <link href="http://localhost:4000/2021/07/08/example-content/"/>
-   <updated>2021-07-08T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2021/07/08/example-content</id>
+   <link href="http://localhost:4000/2021/08/08/example-content/"/>
+   <updated>2021-08-08T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2021/08/08/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
-  We will need to shutdown the LC-MS on the following Fridays:&lt;br /&gt;
-  July 23&lt;br /&gt;
-  July 30&lt;br /&gt;
-  Aug 6
+  We will need to shutdown the LC-MS to accomodate the following power outages:&lt;br /&gt;
+  Saturday, August 14th&lt;br /&gt;
+  Sunday, August 15th&lt;br /&gt;
+  Sunday, August 22nd&lt;br /&gt;
+  Saturday, August 28th (contingency day)&lt;br /&gt;
   
 &lt;/div&gt;
 
