@@ -245,10 +245,10 @@ title: Duties
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
       <td align="center">Aug 20</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
       <td align="center"></td>
     </tr>
     </tbody>
