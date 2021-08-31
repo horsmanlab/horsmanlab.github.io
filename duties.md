@@ -256,7 +256,7 @@ title: Duties
 <br/>
 
 
-### **LC-MS**
+### **LC-MS weekly**
 <table>
   <thead>
     <tr>
@@ -328,6 +328,56 @@ title: Duties
       <td align="center">Aug 20</td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    </tbody>
+  </table>
+<br/>
+
+
+### **LC-MS quarterly**
+<table>
+  <thead>
+    <tr>
+    <th>Date</th>
+      <th>EM voltages positive (1/2)</th>
+      <th>EM voltages negative (1/2)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Aug 24, 2021</td>
+      <td align="center">755/775</td>
+      <td align="center">-810/-830</td>
+    </tr>
+    <tr>
+      <td align="center">Nov ??, 2021</td>
+      <td align="center">?/?</td>
+      <td align="center">-?/-?</td>
+    </tr>
+    </tbody>
+  </table>
+<br/>
+
+
+### **LC-MS semiannually**
+<table>
+  <thead>
+    <tr>
+    <th>Date</th>
+      <th>Oil change</th>
+      <th>Clean optics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Sept ?, 2021</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Mar ??, 2022</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
