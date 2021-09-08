@@ -4,10 +4,12 @@ title: Meetings
 ---
 
 ## Group Meeting Schedule
-**Time:** Thursday 1:30 pm via Zoom<br/>
-*Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting.<br/>
+**Time:** Wednesday 1:00 pm via Zoom<br/>
+*Status update* - The meeting will start with brief research updates from each team member (see below for format of Status Meetings), which should not last more than 15 min.<br/>
 
-*Literature presentations* - Please select a paper from the recent primary literature and provide enough background information for the topic you are presenting. Plan your presentation for around 20 min. At least two days before your presentation, email your selected paper to the group.<br/>
+*Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting. Plan your presentation for about 15-20 min in length.<br/>
+
+*Literature presentations* - Please select a paper from the recent primary literature and provide enough background information for the topic you are presenting. Plan your presentation for around 15-20 min. At least two days before your presentation, email your selected paper to the group.<br/>
 
 <table>
   <thead>
@@ -19,29 +21,29 @@ title: Meetings
   </thead>
   <tbody>
     <tr>
-      <td>Jul 29</td>
-      <td>Walton</td>
+      <td>Sept 15</td>
+      <td>Jose</td>
       <td>Anthony</td>
     </tr>
     <tr>
-      <td>Aug 5</td>
-      <td>Jose</td>
-      <td>Jose</td>
-    </tr>
-    <tr>
-      <td>Aug 12</td>
+      <td>Sept 22</td>
       <td>Anthony</td>
       <td>Minghui</td>
     </tr>
     <tr>
-      <td>Aug 19</td>
+      <td>Sept 29</td>
       <td>Minghui</td>
       <td>Walton</td>
     </tr>
     <tr>
-      <td>Aug 26</td>
+      <td>Oct 6</td>
       <td>Walton</td>
       <td>Jose</td>
+    </tr>
+    <tr>
+      <td>Oct 20</td>
+      <td>Jose</td>
+      <td>Anthony</td>
     </tr>
   </tbody>
 </table>
@@ -49,7 +51,7 @@ title: Meetings
 <br/>
 
 ## Status Meetings
-**Time:** Tuesday 1:30 pm via Zoom (15 minutes)<br/>
+**Time:** Wednesday 1:00 pm via Zoom (15 minutes)<br/>
 Status meetings are designed to be short updates to keep you on track. By stating your own weekly goals and then revisiting the following week as a group, it helps you understand realistic progress and holds you accountable. Each lab member will be expected to concisely answer the three following high-level questions:
 
 (i) What have you done since the last status meeting?<br/>

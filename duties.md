@@ -365,19 +365,19 @@ title: Duties
 <table>
   <thead>
     <tr>
-    <th>Date</th>
-      <th>Oil change</th>
-      <th>Clean optics</th>
+    <th>Target Date</th>
+      <th>Oil changed date</th>
+      <th>Cleaned optics date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Sept ?, 2021</td>
+      <td align="center">Sept 2021</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">Mar ??, 2022</td>
+      <td align="center">March 2022</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
