@@ -45,6 +45,41 @@ title: Meetings
       <td>Jose</td>
       <td>Anthony</td>
     </tr>
+    <tr>
+      <td>Oct 27</td>
+      <td>Anthony</td>
+      <td>Minghui</td>
+    </tr>
+    <tr>
+      <td>Nov 3</td>
+      <td>Minghui</td>
+      <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Nov 10</td>
+      <td>Walton</td>
+      <td>Jose</td>
+    </tr>
+    <tr>
+      <td>Nov 17</td>
+      <td>Jose</td>
+      <td>Anthony</td>
+    </tr>
+    <tr>
+      <td>Nov 24</td>
+      <td>Anthony</td>
+      <td>Minghui</td>
+    </tr>
+    <tr>
+      <td>Dec 1</td>
+      <td>Minghui</td>
+      <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Dec 8</td>
+      <td>Walton</td>
+      <td>Jose</td>
+    </tr>
   </tbody>
 </table>
 
