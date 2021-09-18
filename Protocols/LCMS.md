@@ -13,7 +13,7 @@ layout: default
  6. Wait ~30 min to 1 hr.
  7. Turn on MS by turning switch from *service mode* to *electronics normal*
  8. Turn on LC by pressing power button on the bottom left of the instrument
- 9. Press and hold on button (last button on UPS) until UPS beeps. The display on the UPS should change and the "line light" should be illuminated.
+ 9. Press and hold the ON button (last button on UPS) until UPS beeps. The display on the UPS should change and the "line light" should be illuminated.
 
 **Turning off LC-MS & UPS (for power outage)**
 
