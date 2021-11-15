@@ -56,6 +56,12 @@ title: Duties
       <td align="center">Aug 13</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Nov 5</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -99,6 +105,12 @@ title: Duties
     <tr>
       <td align="center">Sept 17</td>
       <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Nov 12</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
@@ -177,6 +189,12 @@ title: Duties
       <td align="center">Aug 6</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Oct 8</td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -252,6 +270,13 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Aug 20</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Nov 12</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
@@ -344,6 +369,13 @@ title: Duties
       <td align="center"></td>
       <td align="center">&#x2714;</td>
     </tr>
+    <tr>
+      <td align="center">Nov 12</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -371,6 +403,12 @@ title: Duties
       <td align="center">-762/-784</td>
       <td align="center">-820/-835</td>
       <td align="center">Y</td>
+    </tr>
+    <tr>
+      <td align="center">Nov 15, 2021</td>
+      <td align="center">-767/-797</td>
+      <td align="center">-?/-856</td>
+      <td align="center">N</td>
     </tr>
     </tbody>
   </table>
