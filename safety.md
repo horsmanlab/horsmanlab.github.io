@@ -18,6 +18,8 @@ title: Safety
 
 [BIO-007-03: CL1 Training Checklist](/Safety/BIO-007-03.pdf)<br/>
 
+[BIO-008-03: Decontamination](/Safety/BIO-008-03.pdf)<br/>
+
 [LAB-001-02: Sharps](/Safety/LAB-001-02.pdf)<br/>
 
 [LAB-002-02: Compressed Gas](/Safety/LAB-002-02.pdf)<br/>

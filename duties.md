@@ -184,7 +184,7 @@ title: Duties
 
 
 
-### **Waste Disposal**
+### **Chemical Waste Disposal**
 <table>
   <thead>
     <tr>
@@ -218,6 +218,18 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">Oct 8</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Nov 24</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Dec 14</td>
+      <td align="center"></td>
     </tr>
     </tbody>
   </table>
