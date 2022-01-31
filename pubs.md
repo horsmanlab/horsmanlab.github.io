@@ -6,7 +6,7 @@ title: Publications
 
 <br/>
 
-Li S, Horsman GP (2021) [An inventory of early branch points in microbial phosphonate biosynthesis](https://www.biorxiv.org/content/10.1101/2021.04.07.438883v2) *bioRxiv* doi.org/10.1101/2021.04.07.438883
+Li S, Horsman GP (2022) [An inventory of early branch points in microbial phosphonate biosynthesis](https://www.biorxiv.org/content/10.1101/2021.04.07.438883v2) *Microbial Genomics*, accepted.
 <br/>
 
 Li P, Chen M, Tang W, Guo Z, Zhang Y, Wang M, Horsman GP, Zhong J, Lu Z, Chen Y (2021) [Initiating polyketide biosynthesis by on-line methyl esterification](https://www.nature.com/articles/s41467-021-24846-7) *Nature Communications* 12, 4499
