@@ -4,7 +4,7 @@ title: Duties
 ---
 
 
-## 2021
+## 2022
 
 <embed src="/Lab_Duties_2021.pdf" width="800px" height="1000px" /><br/><br/>
 
@@ -110,7 +110,7 @@ title: Duties
 <table>
   <thead>
     <tr>
-      <th>Minghui</th>
+      <th>Mirabel</th>
       <th>Anthony</th>
       <th>Jose</th>
       <th>Walton</th>
@@ -152,6 +152,12 @@ title: Duties
       <td align="center"></td>
       <td align="center">Dec 14</td>
       <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Feb 8</td>
     </tr>
     </tbody>
   </table>
@@ -200,6 +206,13 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Jan 28</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Feb 4</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
@@ -255,6 +268,13 @@ title: Duties
       <td align="center"></td>
       <td align="center">&#x2714;</td>
       <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Feb 4</td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     </tbody>
