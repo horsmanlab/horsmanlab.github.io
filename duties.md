@@ -106,6 +106,12 @@ title: Duties
       <td align="center"></td>
       <td align="center">Jan 28</td>
     </tr>
+    <tr>
+      <td align="center">Feb 18</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -224,6 +230,13 @@ title: Duties
       <td align="center">&#x2714;</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center">Feb 18</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -278,6 +291,13 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Feb 4</td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Feb 18</td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
       <td align="center"></td>
