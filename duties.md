@@ -130,12 +130,6 @@ title: Duties
   </thead>
   <tbody>
     <tr>
-      <td align="center">Jun 30</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
       <td align="center"></td>
       <td align="center">Jul 6 (sharps)</td>
       <td align="center"></td>
@@ -237,6 +231,13 @@ title: Duties
       <td align="center">&#x2714;</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center">Feb 25</td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -298,6 +299,13 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Feb 18</td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Feb 25</td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
       <td align="center"></td>
