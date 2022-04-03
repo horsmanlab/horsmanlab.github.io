@@ -4,7 +4,7 @@
  <title>The Horsman Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-03-28T12:14:03-04:00</updated>
+ <updated>2022-04-03T13:35:06-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Welcome to the Horsman Lab!</title>
-   <link href="http://localhost:4000/2021/12/03/welcome/"/>
-   <updated>2021-12-03T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2021/12/03/welcome</id>
+   <link href="http://localhost:4000/2022/04/03/welcome/"/>
+   <updated>2022-04-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2022/04/03/welcome</id>
    <content type="html">&lt;p&gt;We’re a research group at &lt;a href=&quot;http://www.wlu.ca&quot;&gt;Wilfrid Laurier University&lt;/a&gt; trying to understand microbial biosynthetic chemistry.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -26,11 +26,11 @@
  
  <entry>
    <title>Announcements</title>
-   <link href="http://localhost:4000/2021/12/01/example-content/"/>
-   <updated>2021-12-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2021/12/01/example-content</id>
+   <link href="http://localhost:4000/2022/04/01/example-content/"/>
+   <updated>2022-04-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2022/04/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
- A planned power outage is scheduled for Wednesday December 29, with a contingency day on Thursday December 30.&lt;br /&gt;
+ A planned power outage is scheduled for Sunday, May 1.&lt;br /&gt;
   
 &lt;/div&gt;
 
