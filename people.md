@@ -12,7 +12,9 @@ Anthony Trinh (MSc student)
 
 Jose Garcia (MSc student)
 
-Minghui Ma (Undergraduate
+Minghui Ma (Undergraduate)
+
+Mirabel Saiar (Undergraduate)
 
 Walton Smith (Undergraduate)
 

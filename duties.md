@@ -177,6 +177,12 @@ title: Duties
       <td align="center"></td>
       <td align="center">Feb 8</td>
     </tr>
+    <tr>
+      <td align="center">Apr 11</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -398,6 +404,11 @@ title: Duties
     </tr>
     <tr>
       <td align="center">March 2022</td>
+      <td align="center">Apr 29</td>
+      <td align="center">Apr 29</td>
+    </tr>
+    <tr>
+      <td align="center">Oct 2022</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
