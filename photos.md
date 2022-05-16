@@ -2,9 +2,6 @@
 layout: page
 title: Photos
 ---
-**2022**
-![image](/Photos/20220406_lab.jpg)
-Geoff, Walton, Mirabel, Jose, Anthony<br/><br/>
 
 **2021**
 ![image](/Photos/20210521.jpg)

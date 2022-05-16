@@ -86,7 +86,7 @@ title: Meetings
       <td>Walton</td>
     </tr>
     <tr>
-      <td>Aug 10 (N1050)</td>
+      <td>Aug 10 (N1055)</td>
       <td>Walton</td>
       <td>Minghui</td>
     </tr>

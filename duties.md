@@ -3,7 +3,6 @@ layout: page
 title: Duties
 ---
 
-
 ## 2022
 
 <embed src="/Lab_Duties_2021.pdf" width="800px" height="1000px" /><br/><br/>
@@ -381,6 +380,12 @@ title: Duties
       <td align="center">?/-807</td>
       <td align="center">-?/-?</td>
       <td align="center">N</td>
+    </tr>
+    <tr>
+      <td align="center">May 3, 2022</td>
+      <td align="center">-790/-800</td>
+      <td align="center">-862/-848</td>
+      <td align="center">Y</td>
     </tr>
     </tbody>
   </table>
