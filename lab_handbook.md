@@ -12,7 +12,7 @@ The purpose of this document is to outline lab values and expectations that will
 We recognize the privilege of publically funded scientific research and commit to to asking and seeking answers to important questions. We aim to achieve this through the core values of *curiosity*, *intentionality*, *rigor*, and *collaboration*.<br/>
 
 ### Curiosity<br/>
--    We are curious about the world around us and read broadly. Aim to read at least one paper a week that is unrelated to your research. You may be surprised at the unexpected insights it provides to your work! [See the famous Roger Federer vs Tiger Woods comparison [here](https://lithub.com/are-you-a-roger-or-a-tiger-on-specialization-vs-variety/)]<br/>
+-    We are curious about the world around us and are open to  using unfamiliar tools to seek answers.<br/>
 - We cultivate our curiosity by giving full attention to others in meetings and seminars. Like anything, genuine curiousity needs to be cultivated; develop a habit of asking thoughtful questions in meetings/seminars.<br/>
 -    Be curious about the work of those around you (including in other labs). Every lab member should be able to summarize in a sentence or two the work of every other lab member. If you can’t do this, start by asking questions during lab meetings or arrange a one-on-one discussion over coffee.<br/>
 
@@ -32,8 +32,8 @@ Despite our relatively narrow technical skills and research 'comfort zones', we 
 - I expect at least one first author publication from MSc students, but undergraduates should also aspire to this metric.<br/>
 - Students should develop clear research goals and place them in a short- vs long-term framework with anticipated completion times (see intentionality core value above)
 - I expect students to develop independence. I will not micromanage unless required temporarily in the early stages of your training. I expect you to take ownership of your project and anticipate what is needed for completion within your degree/placement timeframe.
-- Everyone should keep up with the primary research literature, ideally by regularly (e.g. daily) blocking off time to read. This is one of the most important habits you can develop, and reading widely helps you write better.<br/>
-- In addition to regular progress reports (see below), you should schedule writing more frequently. One way to do this is by updating progress in the OSF, using the wiki to document background, methods, and results sections with links to references. The process of writing helps you better understand your project and can lead to important insights.<br/>
+- Everyone should keep up with the primary research literature. This is one of the most important habits you can develop, and reading widely helps you write better.<br/>
+- Regular progress reports (see below) help you to schedule writing and get feedback from me. The process of writing helps you better understand your project and can lead to important insights.<br/>
 > *"I write to understand as much as to be understood"<br/> -Elie Wiesel*<br/>
 
 
@@ -61,7 +61,7 @@ Meetings are mandatory for all members and provide an opportunity to share ideas
     Please verify these details (including availability) on the supplier website prior to contacting me.<br/>
     
 ### Professionalism and Code of Conduct<br/>
-- We treat each other with respect. Disrespectful conduct will not be tolerated. <br/>
+- We treat each other with respect. Disrespectful conduct will not be tolerated. This extends beyond the lab - how we conduct ourselves with other students and staff members affects the reputation of the entire lab.<br/>
 - Speak to me if you have concerns about your interactions with other lab members.<br/>
 - If you have concerns about your interactions with me, or you feel I have not properly addressed other concerns, you may contact your program coordinator or Department chair. The [Office of Human Rights and Conflict Management](https://students.wlu.ca/wellness-and-recreation/dispute-resolution/index.html) is an excellent resource.
 - I will work with you to set work hours and leave (illness, vacation time). Other aspects to your life are equally important and should be carefully protected. The amount of time invested in research is correlated to research outcomes and degree completion times.<br/>

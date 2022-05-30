@@ -14,23 +14,11 @@ title: Duties
     <tr>
       <th>Mirabel</th>
       <th>Anthony</th>
-      <th>Jose</th>
+      <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center"></td>
-      <td align="center">Nov 5</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center">Nov 26</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center">Feb 11</td>
       <td align="center"></td>
@@ -40,6 +28,39 @@ title: Duties
     <tr>
       <td align="center"></td>
       <td align="center">Mar 25</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">May 20</td>
+      <td align="center"></td>
+    </tr>
+    </tbody>
+  </table>
+<br/>
+
+### **Spill Sheets**
+<table>
+  <thead>
+    <tr>
+      <th>Mirabel</th>
+      <th>Anthony</th>
+      <th>Minghui</th>
+      <th>Walton</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">May 27</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
@@ -54,17 +75,11 @@ title: Duties
     <tr>
       <th>Mirabel</th>
       <th>Anthony</th>
-      <th>Jose</th>
+      <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Dec 3</td>
-    </tr>
     <tr>
       <td align="center"></td>
       <td align="center">Jan 7</td>
@@ -75,6 +90,12 @@ title: Duties
       <td align="center">Jan 21</td>
       <td align="center"></td>
       <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">May 20</td>
       <td align="center"></td>
     </tr>
     </tbody>
@@ -93,12 +114,6 @@ title: Duties
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Nov 19</td>
-    </tr>
     <tr>
       <td align="center">Jan 7</td>
       <td align="center">Jan 7</td>
@@ -135,41 +150,11 @@ title: Duties
     <tr>
       <th>Mirabel</th>
       <th>Anthony</th>
-      <th>Jose</th>
+      <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center"></td>
-      <td align="center">Jul 6 (sharps)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Aug 6</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Oct 8</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center">Nov 24</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Dec 14</td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center"></td>
       <td align="center"></td>
@@ -179,6 +164,12 @@ title: Duties
     <tr>
       <td align="center">Apr 11</td>
       <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">May 24</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
@@ -199,13 +190,6 @@ title: Duties
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center">Dec 3</td>
-      <td align="center"></td>
-      <td align="center">&#x2714;</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center">Jan 7</td>
       <td align="center"></td>
@@ -260,6 +244,13 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">May 27</td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     </tbody>
