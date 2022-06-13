@@ -185,6 +185,12 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Jun 14</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
