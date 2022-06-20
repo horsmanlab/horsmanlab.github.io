@@ -66,8 +66,8 @@ title: Duties
     </tr>
     <tr>
       <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">Jun 17</td>
+      <td align="center">Jun 17</td>
       <td align="center"></td>
     </tr>
     </tbody>
@@ -121,33 +121,21 @@ title: Duties
     <tr>
       <th>Mirabel</th>
       <th>Anthony</th>
-      <th>Jose</th>
+      <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Jan 7</td>
-      <td align="center">Jan 7</td>
-      <td align="center"></td>
-      <td align="center">Jan 7</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Jan 28</td>
-    </tr>
-    <tr>
-      <td align="center">Feb 18</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
       <td align="center">Mar 25</td>
       <td align="center"></td>
       <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Jun 17</td>
+      <td align="center">Jun 17</td>
       <td align="center"></td>
     </tr>
     </tbody>
