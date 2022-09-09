@@ -6,7 +6,7 @@ title: Publications
 
 <br/>
 
-Ramos-Figueroa JS, Palmer DRJ, Horsman GP (2022) [Phosphoenolpyruvate mutase-catalyzed C–P bond formation: mechanistic ambiguities and opportunities](https://doi.org/10.1002/cbic.202200285) *ChemBioChem*, in press.
+Ramos-Figueroa JS, Palmer DRJ, Horsman GP (2022) [Phosphoenolpyruvate mutase-catalyzed C–P bond formation: mechanistic ambiguities and opportunities](https://onlinelibrary.wiley.com/share/author/FM2IUZJA3XKZYMXEJ2MR?target=10.1002/cbic.202200285) *ChemBioChem*, in press.
 <br/>
 
 Li S, Horsman GP (2022) [An inventory of early branch points in microbial phosphonate biosynthesis](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000781) *Microbial Genomics*, 8:000781.
