@@ -4,7 +4,7 @@ title: Meetings
 ---
 
 ## Group Meeting Schedule
-**Time:** Monday 1:00 pm BA402 (or BA429)<br/>
+**Time:** Monday 1:00 pm BA402<br/>
 
 
 *Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting. Plan your presentation for about 15-20 min in length.<br/>
@@ -31,9 +31,9 @@ title: Meetings
       <td></td>
     </tr>
     <tr>
-      <td>Oct 3 (BA429)</td>
-      <td>Walton</td>
-      <td>Minghui</td>
+      <td>Oct 3</td>
+      <td>No meeting</td>
+      <td></td>
     </tr>
     <tr>
       <td>Oct 10</td>
@@ -42,18 +42,18 @@ title: Meetings
     </tr>
     <tr>
       <td>Oct 17</td>
-      <td>Minghui</td>
+      <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
       <td>Oct 24</td>
       <td>Mirabel</td>
-      <td>Walton</td>
+      <td>Minghui</td>
     </tr>
     <tr>
       <td>Oct 31</td>
-      <td>Waltun</td>
       <td>Minghui</td>
+      <td>Walton</td>
     </tr>
     <tr>
       <td>Nov 7</td>
@@ -62,28 +62,28 @@ title: Meetings
     </tr>
     <tr>
       <td>Nov 14</td>
-      <td>Minghui</td>
+      <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
       <td>Nov 21</td>
       <td>Mirabel</td>
-      <td>Walton</td>
+      <td>Minghui</td>
     </tr>
     <tr>
       <td>Nov 28</td>
-      <td>Waltin</td>
       <td>Minghui</td>
+      <td>Walton</td>
     </tr>
     <tr>
       <td>Dec 5</td>
-      <td>Minghui</td>
+      <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
       <td>Dec 12</td>
       <td>Mirabel</td>
-      <td>Walton</td>
+      <td>Minghui</td>
     </tr>
     <tr>
       <td>Dec 19</td>
