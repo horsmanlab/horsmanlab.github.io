@@ -216,6 +216,12 @@ title: Duties
       <td align="center">Aug 5</td>
       <td align="center">Aug 5</td>
     </tr>
+    <tr>
+      <td align="center">Sep 23</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -262,6 +268,12 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">Jul 26</td>
+    </tr>
+    <tr>
+      <td align="center">Sep 6</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
     </tbody>
   </table>
