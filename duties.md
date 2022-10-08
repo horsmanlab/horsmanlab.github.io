@@ -67,6 +67,12 @@ title: Duties
       <td align="center">Sep 16</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Oct 7</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -102,6 +108,12 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Aug 19</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Oct 7</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -180,6 +192,12 @@ title: Duties
       <td align="center">Sep 16</td>
       <td align="center"></td>
       <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Sep 30</td>
       <td align="center"></td>
     </tr>
     </tbody>
