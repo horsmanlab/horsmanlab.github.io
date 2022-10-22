@@ -9,7 +9,7 @@ Our new review on phosphoenolpyruvate mutase is out in [ChemBioChem](https://onl
   
 
   
-  ![image](/ppm.jpeg)
+  ![image](/Ppm.jpeg)
   
 
 

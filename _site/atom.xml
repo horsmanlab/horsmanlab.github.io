@@ -4,7 +4,7 @@
  <title>The Horsman Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-10-21T21:59:38-04:00</updated>
+ <updated>2022-10-22T08:07:37-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -31,7 +31,7 @@
    <id>http://localhost:4000/2022/10/20/example-content</id>
    <content type="html">&lt;p&gt;Our new review on phosphoenolpyruvate mutase is out in &lt;a href=&quot;https://onlinelibrary.wiley.com/share/author/FM2IUZJA3XKZYMXEJ2MR?target=10.1002/cbic.202200285&quot;&gt;ChemBioChem&lt;/a&gt;!&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/ppm.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Ppm.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
