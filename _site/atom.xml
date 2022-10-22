@@ -4,7 +4,7 @@
  <title>The Horsman Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-10-21T19:40:18-04:00</updated>
+ <updated>2022-10-21T21:59:38-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -25,13 +25,47 @@
  </entry>
  
  <entry>
-   <title>Announcements</title>
+   <title>Review on Phosphoenolpyruvate Mutase</title>
+   <link href="http://localhost:4000/2022/10/20/example-content/"/>
+   <updated>2022-10-20T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2022/10/20/example-content</id>
+   <content type="html">&lt;p&gt;Our new review on phosphoenolpyruvate mutase is out in &lt;a href=&quot;https://onlinelibrary.wiley.com/share/author/FM2IUZJA3XKZYMXEJ2MR?target=10.1002/cbic.202200285&quot;&gt;ChemBioChem&lt;/a&gt;!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ppm.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Congratulations Walton!</title>
    <link href="http://localhost:4000/2022/10/16/example-content/"/>
    <updated>2022-10-16T00:00:00-04:00</updated>
    <id>http://localhost:4000/2022/10/16/example-content</id>
    <content type="html">&lt;p&gt;Congratulations to Walton for his poster prize at the &lt;a href=&quot;https://mecc2022.midwestenzyme.org/home&quot;&gt;Midwest Enzyme Chemistry Conference&lt;/a&gt; in Chicago this weekend!&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/MECC_2022.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>NFRF Grant Awarded</title>
+   <link href="http://localhost:4000/2022/04/03/example-content/"/>
+   <updated>2022-04-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2022/04/03/example-content</id>
+   <content type="html">&lt;p&gt;The lab has been awarded a &lt;a href=&quot;https://www.wlu.ca/news/spotlights/2022/april/government-of-canada-announces-new-frontiers-in-research-fund-support-for-laurier-professors-geoff-horsman-and-ketan-shankardass.html&quot;&gt;New Frontiers in Research Fund Grant&lt;/a&gt; to study the capacity for natural product biosynthesis in viruses!&lt;br /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Branch Point Inventories Published in Microbial Genomics</title>
+   <link href="http://localhost:4000/2022/03/01/example-content/"/>
+   <updated>2022-03-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2022/03/01/example-content</id>
+   <content type="html">&lt;p&gt;Our branch point inventory concept has been published in &lt;a href=&quot;https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000781&quot;&gt;Microbial Genomics&lt;/a&gt;!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/mgen.gif&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>

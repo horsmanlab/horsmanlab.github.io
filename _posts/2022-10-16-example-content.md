@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcements
+title: Congratulations Walton!
 ---
 
 
