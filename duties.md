@@ -487,6 +487,13 @@ title: Duties
   <td align="center"></td>
   <td align="center">&#x2714;</td>
 </tr>
+<tr>
+  <td align="center">Oct 28</td>
+  <td align="center">&#x2714;</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">&#x2714;</td>
+</tr>
     </tbody>
   </table>
 <br/>
@@ -533,6 +540,12 @@ title: Duties
       <td align="center">-862/-848</td>
       <td align="center">Y</td>
     </tr>
+    <tr>
+      <td align="center">Oct 28, 2022</td>
+      <td align="center">-821/-841</td>
+      <td align="center"></td>
+      <td align="center">Y</td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -560,6 +573,11 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Oct 2022</td>
+      <td align="center">Oct 28</td>
+      <td align="center">Oct 28</td>
+    </tr>
+    <tr>
+      <td align="center">Apr 2023</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
