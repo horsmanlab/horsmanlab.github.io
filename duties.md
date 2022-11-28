@@ -79,6 +79,12 @@ title: Duties
       <td align="center">Nov 11</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Nov 18</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -413,10 +419,17 @@ title: Duties
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">Nov 18</td>
+      <td align="center">Nov 11</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Nov 18</td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     </tbody>
@@ -436,41 +449,6 @@ title: Duties
     </tr>
   </thead>
   <tbody>
-    <tr>
-    <td align="center">Apr 1</td>
-    <td align="center"></td>
-    <td align="center">&#x2714;</td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">May 20</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">&#x2714;</td>
-  </tr> 
-  <tr>
-    <td align="center">May 27</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">&#x2714;</td>
-  </tr> 
-  <tr>
-    <td align="center">Jun 3</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">&#x2714;</td>
-  </tr> 
-  <tr>
-    <td align="center">Jul 22</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center">&#x2714;</td>
-  </tr>
   <tr>
   <td align="center">Jul 29</td>
   <td align="center"></td>
@@ -509,6 +487,13 @@ title: Duties
 <tr>
   <td align="center">Oct 28</td>
   <td align="center">&#x2714;</td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center">&#x2714;</td>
+</tr>
+<tr>
+  <td align="center">Nov 25</td>
+  <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center">&#x2714;</td>
