@@ -4,7 +4,7 @@ title: Meetings
 ---
 
 ## Group Meeting Schedule
-**Time:** Monday 1:00 pm BA402<br/>
+**Time:** Mondays 12:30 pm BA402<br/>
 
 
 *Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting. Plan your presentation for about 15-20 min in length.<br/>
@@ -21,74 +21,60 @@ title: Meetings
   </thead>
   <tbody>
     <tr>
-      <td>Sep 19</td>
-      <td>General Discussion</td>
-      <td></td>
+      <td>Feb 6</td>
+      <td>Mirabel</td>
+      <td>Minghui</td>
     </tr>
     <tr>
-      <td>Sep 26</td>
+      <td>Feb 13</td>
+      <td>Minghui</td>
+      <td>Milad</td>
+    </tr>
+    <tr>
+      <td>Feb 20</td>
       <td>No meeting</td>
       <td></td>
     </tr>
     <tr>
-      <td>Oct 3</td>
-      <td>No meeting</td>
+      <td>Feb 27</td>
+      <td>Milad</td>
+      <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Mar 6</td>
+      <td>Walton</td>
+      <td>Mirabel</td>
+    </tr>
+    <tr>
+      <td>Mar13</td>
+      <td>Mirabel</td>
+      <td>Minghui</td>
+    </tr>
+    <tr>
+      <td>Mar 20</td>
+      <td>Minghui</td>
+      <td>Milad</td>
+    </tr>
+    <tr>
+      <td>Mar 27</td>
+      <td>Milad</td>
+      <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Apr 3</td>
+      <td>Walton</td>
+      <td>Mirabel</td>
+    </tr>
+    <tr>
+      <td>Apr 10</td>
+      <td>No Meeting</td>
       <td></td>
     </tr>
     <tr>
-      <td>Oct 10</td>
-      <td>No meeting</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Oct 17</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Oct 24</td>
+      <td>Apr 17</td>
       <td>Mirabel</td>
       <td>Minghui</td>
     </tr>
-    <tr>
-      <td>Oct 31</td>
-      <td>Minghui</td>
-      <td>Walton</td>
-    </tr>
-    <tr>
-      <td>Nov 7</td>
-      <td>No meeting</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Nov 14</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Nov 21</td>
-      <td>Mirabel</td>
-      <td>Minghui</td>
-    </tr>
-    <tr>
-      <td>Nov 28</td>
-      <td>Minghui</td>
-      <td>Walton</td>
-    </tr>
-    <tr>
-      <td>Dec 5</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Dec 12</td>
-      <td>Mirabel</td>
-      <td>Minghui</td>
-    </tr>
-    <tr>
-      <td>Dec 19</td>
-      <td>General Discussion</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -96,10 +82,11 @@ title: Meetings
 <br/>
 
 ## Individual Meetings
-Friday afternoons (Geoff's office or via Zoom)<br/>
-Walton: 1:30 pm<br/>
-Minghui: 2:00 pm<br/>
-Mirabel: 2:30 pm
+Fridays (Geoff's office)<br/>
+Mirabel: 10:30 pm<br/>
+Minghui: 11:00 am<br/>
+Walton: 11:30 pm<br/>
+Milad: 12:00 pm
 
 
 
