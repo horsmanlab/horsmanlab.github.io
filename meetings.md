@@ -75,7 +75,6 @@ title: Meetings
       <td>Mirabel</td>
       <td>Minghui</td>
     </tr>
-    </tr>
   </tbody>
 </table>
 
