@@ -13,7 +13,7 @@ title: Duties
   <thead>
     <tr>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Minghui</th>
       <th>Walton</th>
     </tr>
@@ -58,24 +58,12 @@ title: Duties
   <thead>
     <tr>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center">May 27</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center">Jun 17</td>
-      <td align="center">Jun 17</td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center">Jul 15</td>
       <td align="center"></td>
@@ -104,7 +92,7 @@ title: Duties
   <thead>
     <tr>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Minghui</th>
       <th>Walton</th>
     </tr>
@@ -152,6 +140,12 @@ title: Duties
       <td align="center">Jan 27</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Feb 17</td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -162,32 +156,20 @@ title: Duties
   <thead>
     <tr>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">Mar 25</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center">Jun 17</td>
-      <td align="center">Jun 17</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">Aug 5</td>
-      <td align="center">Aug 5</td>
-      <td align="center">Aug 5</td>
-      <td align="center">Aug 5</td>
-    </tr>
-    <tr>
       <td align="center">Sep 23</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Feb 17</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -203,24 +185,12 @@ title: Duties
   <thead>
     <tr>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Minghui</th>
       <th>Walton</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center">Apr 11</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center">May 24</td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center"></td>
       <td align="center"></td>
@@ -256,7 +226,7 @@ title: Duties
     <tr>
     <th>Date</th>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Minghui</th>
       <th>Walton</th>
     </tr>
@@ -297,6 +267,13 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center">Feb 17</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center">&#x2714;</td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -308,7 +285,7 @@ title: Duties
     <tr>
     <th>Date</th>
       <th>Mirabel</th>
-      <th>Anthony</th>
+      <th>Milad</th>
       <th>Jose</th>
       <th>Walton</th>
     </tr>
