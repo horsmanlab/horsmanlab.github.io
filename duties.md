@@ -396,6 +396,12 @@ title: Duties
       <td align="center"></td>
       <td align="center">Y</td>
     </tr>
+    <tr>
+      <td align="center">May 2, 2023</td>
+      <td align="center">-807/-823</td>
+      <td align="center"></td>
+      <td align="center">N</td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -427,9 +433,9 @@ title: Duties
       <td align="center">Oct 28</td>
     </tr>
     <tr>
-      <td align="center">Apr 2023</td>
+      <td align="center">May 2023</td>
       <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">May 1</td>
     </tr>
     </tbody>
   </table>

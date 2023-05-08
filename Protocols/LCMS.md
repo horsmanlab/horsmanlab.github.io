@@ -21,7 +21,7 @@ Turn off LC by pressing the power button on the bottom left of the instrument
 1. Turn off electronics of the MS by putting the left-most switch to *service mode*
 2. Turn off main power switch on MS and unplug one of the vacuum plugs
 3. Close He tank
-4. Turn off UPS using switch at the back of the UPS (may take up to 5 minutes to turn off but will turn off automatically)
+4. Turn off UPS by: (i) pressing and holding the off button (second from left on front panel) for ~0.5 s until beeps. Then push the on button to put it into BYPASS mode. Once bypass light (and only bypass light) is on you can turn off using input circuit breaker switch at the back of the UPS (may take up to 5 minutes to turn off but will turn off automatically)
 
 **Turning off LC-MS for vacuum pump/He tank service**
 Press and hold down bypass button (first button on UPS) until the UPS beeps. The display on the UPS should change and the "bypass light" should be illuminated.
