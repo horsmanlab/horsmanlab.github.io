@@ -4,7 +4,7 @@ title: Meetings
 ---
 
 ## Group Meeting Schedule
-**Time:** Wednesdays 1:00-2:20 pm BA402<br/>
+**Time:** Wednesdays 2:30-3:50 pm BA402<br/>
 
 
 *Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting. Plan your presentation for about 15-20 min in length.<br/>
