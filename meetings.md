@@ -112,10 +112,10 @@ title: Meetings
 
 ## Individual Meetings
 Fridays (Geoff's office)<br/>
-Mirabel: 10:30 pm<br/>
-Minghui: 11:00 am<br/>
-Walton: 11:30 pm<br/>
-Milad: 12:00 pm
+Mirabel: 12:30 pm<br/>
+Minghui: 1:00 pm<br/>
+Walton: 1:30 pm<br/>
+Milad: 2:00 pm
 
 
 
