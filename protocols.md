@@ -4,7 +4,8 @@ title: Protocols
 ---
 
 
-## 2021
+<br/>
+
 
 [Expression tests](/Protocols/expression.md)<br/>
 
@@ -15,3 +16,6 @@ title: Protocols
 [Phenol-chloroform screening for inserts](/Protocols/yihua.md)<br/>
 
 [LC-MS and UPS power guide](/Protocols/LCMS.md)<br/>
+
+[DNA sequencing analysis tips](/Protocols/DNA_TCAG_seq.pdf)<br/>
+

@@ -3,7 +3,7 @@ layout: page
 title: Duties
 ---
 
-## 2022
+## 2023
 
 <embed src="/Lab_Duties_2021.pdf" width="800px" height="1000px" /><br/><br/>
 
@@ -19,36 +19,6 @@ title: Duties
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td align="center">Aug 26</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Sep 16</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Oct 7</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Nov 11</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center">Nov 18</td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center"></td>
       <td align="center">Mar 10</td>
@@ -78,6 +48,12 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">Jun 9</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Jun 16</td>
+      <td align="center"></td>
+      <td align="center">Jun 16</td>
     </tr>
     </tbody>
   </table>
@@ -170,6 +146,12 @@ title: Duties
       <td align="center">Jun 9</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">Jun 16</td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -203,6 +185,12 @@ title: Duties
       <td align="center"></td>
       <td align="center">Jun 9</td>
       <td align="center">Jun 9</td>
+    </tr>
+    <tr>
+      <td align="center">Jun 16</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
     </tbody>
   </table>
