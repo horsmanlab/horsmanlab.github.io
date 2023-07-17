@@ -3,6 +3,10 @@ layout: page
 title: Photos
 ---
 
+**2023 Summer BBQ (Farewell Minghui!)**
+![image](/Photos/2023_bbq_group1.JPG)
+Minghui, Mirabel, Anthony, Geoff, Milad<br/><br/>
+
 **2021**
 ![image](/Photos/20210521.jpg)
 Afshan, Minghui, Walton, Geoff, Anthony<br/><br/>
