@@ -71,39 +71,34 @@ title: Meetings
       <td>Milad</td>
     </tr>
     <tr>
-      <td>Jul 19</td>
+      <td>Jul 26</td>
       <td>Walton</td>
       <td>–</td>
-    </tr>
-    <tr>
-      <td>Jul 26</td>
-      <td>Mirabel</td>
-      <td>Walton</td>
     </tr>
     <tr>
       <td>Aug 2</td>
-      <td>Milad</td>
       <td>Mirabel</td>
+      <td>Walton</td>
     </tr>
     <tr>
       <td>Aug 9</td>
+      <td>Milad</td>
+      <td>Mirabel</td>
+    </tr>
+    <tr>
+      <td>Aug 16</td>
       <td>–</td>
       <td>Milad</td>
     </tr>
     <tr>
-      <td>Aug 16</td>
+      <td>Aug 23</td>
       <td>Walton</td>
       <td>–</td>
-    </tr>
-    <tr>
-      <td>Aug 23</td>
-      <td>Mirabel</td>
-      <td>Walton</td>
     </tr>
     <tr>
       <td>Aug 30</td>
-      <td>General Discussion</td>
-      <td>–</td>
+      <td>Mirabel</td>
+      <td>Walton</td>
     </tr>
   </tbody>
 </table>
