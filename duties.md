@@ -58,6 +58,11 @@ title: Duties
       <td align="center">Aug 18</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Sept 15</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
