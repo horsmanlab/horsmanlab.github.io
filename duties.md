@@ -15,6 +15,7 @@ title: Duties
       <th>Mirabel</th>
       <th>Milad</th>
       <th>Walton</th>
+      <th>Ariana</th>
     </tr>
   </thead>
   <tbody>
@@ -74,6 +75,7 @@ title: Duties
       <th>Mirabel</th>
       <th>Milad</th>
       <th>Walton</th>
+      <th>Ariana</th>
     </tr>
   </thead>
   <tbody>
@@ -97,6 +99,12 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center">Sep 29</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -109,6 +117,7 @@ title: Duties
       <th>Mirabel</th>
       <th>Milad</th>
       <th>Walton</th>
+      <th>Ariana</th>
     </tr>
   </thead>
   <tbody>
@@ -149,6 +158,7 @@ title: Duties
       <th>Mirabel</th>
       <th>Milad</th>
       <th>Walton</th>
+      <th>Ariana</th>
     </tr>
   </thead>
   <tbody>
@@ -167,6 +177,12 @@ title: Duties
       <td align="center"></td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Sep 29</td>
+      <td align="center">Sep 29</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>
@@ -180,6 +196,7 @@ title: Duties
       <th>Mirabel</th>
       <th>Milad</th>
       <th>Walton</th>
+      <th>Ariana</th>
     </tr>
   </thead>
   <tbody>
@@ -206,6 +223,7 @@ title: Duties
       <th>Mirabel</th>
       <th>Milad</th>
       <th>Walton</th>
+      <th>Ariana</th>
     </tr>
   </thead>
   <tbody>
@@ -229,6 +247,13 @@ title: Duties
     </tr>
     <tr>
       <td align="center">Sep 8</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+    </tr>
+    <tr>
+      <td align="center">Sep 29</td>
+      <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
