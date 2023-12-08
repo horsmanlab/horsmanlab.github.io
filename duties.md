@@ -167,6 +167,11 @@ title: Duties
       <td align="center">Nov 10</td>
       <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center">Dec 8</td>
+      <td align="center"></td>
+    </tr>
     </tbody>
   </table>
 <br/>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Protocols
+title: Protocols & Inventory
 ---
 
 
@@ -18,4 +18,6 @@ title: Protocols
 [LC-MS and UPS power guide](/Protocols/LCMS.md)<br/>
 
 [DNA sequencing analysis tips](/Protocols/DNA_TCAG_seq.pdf)<br/>
+
+[-80C Freezer](/Protocols/-80_Freezer.xlsx)<br/>
 
