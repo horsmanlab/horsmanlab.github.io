@@ -3,7 +3,7 @@ layout: page
 title: Duties
 ---
 
-## 2023
+## 2024
 
 <embed src="/Lab_Duties_2021.pdf" width="800px" height="1000px" /><br/><br/>
 
@@ -309,6 +309,12 @@ title: Duties
     <tr>
       <td align="center">Dec 1</td>
       <td align="center"></td>
+      <td align="center"></td>
+      <td align="center">&#x2714;</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Jan 12</td>
       <td align="center"></td>
       <td align="center">&#x2714;</td>
       <td align="center"></td>
