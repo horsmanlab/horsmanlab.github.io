@@ -4,7 +4,7 @@ title: Meetings
 ---
 
 ## Group Meeting Schedule
-**Time:** Fridays 11:30-1:00 pm BA211<br/>
+**Time:** Wednesdays 1:00-2:20 pm DAWB 4-106<br/>
 
 
 *Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting. Plan your presentation for about 15-20 min in length.<br/>
@@ -21,54 +21,60 @@ title: Meetings
   </thead>
   <tbody>
     <tr>
-      <td>Sept 29</td>
+      <td>Jan 24</td>
       <td>Mirabel</td>
       <td>Milad</td>
       <td></td>
     </tr>
     <tr>
-      <td>Oct 6</td>
+      <td>Jan 31</td>
       <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
-      <td>Oct 13</td>
+      <td>Feb 7</td>
       <td>Milad</td>
       <td>Walton</td>
     </tr>
     <tr>
-      <td>Oct 20</td>
+      <td>Feb 14</td>
       <td>Ariana</td>
       <td>Milad</td>
     </tr>
     <tr>
-      <td>Oct 27</td>
+      <td>Feb 21</td>
       <td>Mirabel</td>
       <td>Ariana</td>
     </tr>
     <tr>
-      <td>Nov 3</td>
-      <td>NO MEETING</td>
-    </tr>
-    <tr>
-      <td>Nov 10</td>
+      <td>Feb 28</td>
       <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
-      <td>Nov 17</td>
+      <td>Mar 6</td>
       <td>Milad</td>
       <td>Walton</td>
     </tr>
     <tr>
-      <td>Nov 24</td>
+      <td>Mar 13</td>
       <td>Ariana</td>
       <td>Milad</td>
     </tr>
     <tr>
-      <td>Dec 1</td>
+      <td>Mar 20</td>
       <td>Mirabel</td>
       <td>Ariana</td>
+    </tr>
+    <tr>
+      <td>Mar 27</td>
+      <td>Walton</td>
+      <td>Mirabel</td>
+    </tr>
+    <tr>
+      <td>Apr 3</td>
+      <td>Milad</td>
+      <td>Walton</td>
     </tr>
   </tbody>
 </table>
