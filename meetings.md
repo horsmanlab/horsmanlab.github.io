@@ -4,7 +4,7 @@ title: Meetings
 ---
 
 ## Group Meeting Schedule
-**Time:** Wednesdays 1:00-2:20 pm DAWB 4-106<br/>
+**Time:** Wednesdays 1:30-2:50 pm N1059<br/>
 
 
 *Research presentations* - Provide an update on your research, starting with sufficient background to ensure everyone understands your project’s provenance and motivations. Finish with your proposed next steps as well as your longer-term vision for the project. This is also an excellent opportunity to harness the groups’ collective experience for feedback and troubleshooting. Plan your presentation for about 15-20 min in length.<br/>
@@ -21,60 +21,80 @@ title: Meetings
   </thead>
   <tbody>
     <tr>
-      <td>Jan 24</td>
+      <td>May 22</td>
       <td>Mirabel</td>
       <td>Milad</td>
       <td></td>
     </tr>
     <tr>
-      <td>Jan 31</td>
+      <td>May 29</td>
       <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
-      <td>Feb 7</td>
+      <td>Jun 5</td>
+      <td>NO MEETING</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Jun 12</td>
       <td>Milad</td>
       <td>Walton</td>
     </tr>
     <tr>
-      <td>Feb 14</td>
-      <td>Ariana</td>
+      <td>Jun 19</td>
+      <td>Mirabel</td>
       <td>Milad</td>
     </tr>
     <tr>
-      <td>Feb 21</td>
-      <td>Mirabel</td>
-      <td>Ariana</td>
-    </tr>
-    <tr>
-      <td>Feb 28</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Mar 6</td>
-      <td>Milad</td>
-      <td>Walton</td>
-    </tr>
-    <tr>
-      <td>Mar 13</td>
-      <td>Ariana</td>
-      <td>Milad</td>
-    </tr>
-    <tr>
-      <td>Mar 20</td>
-      <td>Mirabel</td>
-      <td>Ariana</td>
-    </tr>
-    <tr>
-      <td>Mar 27</td>
+      <td>Jun 26</td>
       <td>Walton</td>
       <td>Mirabel</td>
     </tr>
     <tr>
-      <td>Apr 3</td>
+      <td>Jul 3</td>
       <td>Milad</td>
       <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Jul 10</td>
+      <td>Mirabel</td>
+      <td>Milad</td>
+    </tr>
+    <tr>
+      <td>Jul 17</td>
+      <td>Walton</td>
+      <td>Mirabel</td>
+    </tr>
+    <tr>
+      <td>Jul 24</td>
+      <td>Milad</td>
+      <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Jul 31</td>
+      <td>Mirabel</td>
+      <td>Milad</td>
+    </tr>
+    <tr>
+      <td>Aug 7</td>
+      <td>Walton</td>
+      <td>Mirabel</td>
+    </tr>
+    <tr>
+      <td>Aug 14</td>
+      <td>Milad</td>
+      <td>Walton</td>
+    </tr>
+    <tr>
+      <td>Aug 21</td>
+      <td>Mirabel</td>
+      <td>Milad</td>
+    </tr>
+    <tr>
+      <td>Aug 28</td>
+      <td>Walton</td>
+      <td>Mirabel</td>
     </tr>
   </tbody>
 </table>
@@ -82,11 +102,10 @@ title: Meetings
 <br/>
 
 ## Individual Meetings
-Fridays (Geoff's office)<br/>
-Mirabel: 1:00 pm<br/>
-Ariana: 1:30 pm<br/>
-Walton: 2:00 pm<br/>
-Milad: 2:30 pm
+Wednesdays (Geoff's office)<br/>
+Mirabel: 3:00 pm<br/>
+Milad: 3:30 pm<br/>
+Walton: 4:00 pm
 
 
 
