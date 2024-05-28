@@ -27,32 +27,12 @@ title: Meetings
       <td></td>
     </tr>
     <tr>
-      <td>May 29</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Jun 5</td>
-      <td>NO MEETING</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Jun 12</td>
-      <td>Milad</td>
       <td>Walton</td>
-    </tr>
-    <tr>
-      <td>Jun 19</td>
       <td>Mirabel</td>
-      <td>Milad</td>
     </tr>
     <tr>
       <td>Jun 26</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Jul 3</td>
       <td>Milad</td>
       <td>Walton</td>
     </tr>
@@ -62,27 +42,12 @@ title: Meetings
       <td>Milad</td>
     </tr>
     <tr>
-      <td>Jul 17</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
       <td>Jul 24</td>
-      <td>Milad</td>
       <td>Walton</td>
-    </tr>
-    <tr>
-      <td>Jul 31</td>
       <td>Mirabel</td>
-      <td>Milad</td>
     </tr>
     <tr>
       <td>Aug 7</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
-    </tr>
-    <tr>
-      <td>Aug 14</td>
       <td>Milad</td>
       <td>Walton</td>
     </tr>
@@ -90,11 +55,6 @@ title: Meetings
       <td>Aug 21</td>
       <td>Mirabel</td>
       <td>Milad</td>
-    </tr>
-    <tr>
-      <td>Aug 28</td>
-      <td>Walton</td>
-      <td>Mirabel</td>
     </tr>
   </tbody>
 </table>
