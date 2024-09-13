@@ -4,7 +4,9 @@ title: Safety
 ---
 
 
-## 2021
+## 2024
+
+[SHERM Training](/Safety/training.pdf)<br/>
 
 [Laboratory safety manual](/Safety/laboratory-safety-manual.pdf)<br/>
 
