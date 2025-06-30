@@ -8,11 +8,13 @@ title: People
 
 Geoff Horsman (PI)
 
-Anthony Trinh (MSc student)
+Milad Iranshahy (Postdoc)
 
 Mirabel Saiar (MSc student)
 
 Walton Smith (MSc student)
+
+Owen Belbeck (Undergrad)
 
 ## Alumni
 

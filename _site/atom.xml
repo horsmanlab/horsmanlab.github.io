@@ -4,7 +4,7 @@
  <title>The Horsman Lab</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-09-13T18:17:19-04:00</updated>
+ <updated>2025-06-28T21:30:25-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -14,13 +14,25 @@
  
  <entry>
    <title>Welcome to the Horsman Lab!</title>
-   <link href="http://localhost:4000/2023/02/17/welcome/"/>
-   <updated>2023-02-17T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2023/02/17/welcome</id>
+   <link href="http://localhost:4000/2025/06/28/welcome/"/>
+   <updated>2025-06-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2025/06/28/welcome</id>
    <content type="html">&lt;p&gt;We’re a research group at &lt;a href=&quot;http://www.wlu.ca&quot;&gt;Wilfrid Laurier University&lt;/a&gt; trying to understand microbial biosynthetic chemistry.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/MD_fig.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Awarded Best Paper of 2024!</title>
+   <link href="http://localhost:4000/2025/02/25/bestpaper/"/>
+   <updated>2025-02-25T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2025/02/25/bestpaper</id>
+   <content type="html">&lt;p&gt;Congratulations Minghui for winning &lt;a href=&quot;https://fems-microbiology.org/fems-journals-announce-article-award-winners-from-2024/&quot;&gt;best paper of 2024&lt;/a&gt; in &lt;em&gt;FEMS Microbiology Letters&lt;/em&gt; for &lt;a href=&quot;https://academic.oup.com/femsle/article/doi/10.1093/femsle/fnae086/7825870&quot;&gt;“Discovery of a glyphosate oxidase in nature”&lt;/a&gt;!
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Graphic.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

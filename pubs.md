@@ -3,10 +3,12 @@ layout: page
 title: Publications
 ---
 
-
+<br/>
+Ma M, Ardalan A, Van Dyk A, Charles TC, Horsman GP (2024) [Discovery of a glyphosate oxidase in nature](https://academic.oup.com/femsle/article/doi/10.1093/femsle/fnae086/7825870) *FEMS Microbiology Letters*, 371:fnae086.
+**[Awarded best article of 2024](https://fems-microbiology.org/fems-journals-announce-article-award-winners-from-2024/)**
 <br/>
 
-Ramos-Figueroa JS, Palmer DRJ, Horsman GP (2022) [Phosphoenolpyruvate mutase-catalyzed C–P bond formation: mechanistic ambiguities and opportunities](https://onlinelibrary.wiley.com/share/author/FM2IUZJA3XKZYMXEJ2MR?target=10.1002/cbic.202200285) *ChemBioChem*, in press.
+Ramos-Figueroa JS, Palmer DRJ, Horsman GP (2022) [Phosphoenolpyruvate mutase-catalyzed C–P bond formation: mechanistic ambiguities and opportunities](https://onlinelibrary.wiley.com/share/author/FM2IUZJA3XKZYMXEJ2MR?target=10.1002/cbic.202200285) *ChemBioChem*, 23:e202200285.
 <br/>
 
 Li S, Horsman GP (2022) [An inventory of early branch points in microbial phosphonate biosynthesis](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000781) *Microbial Genomics*, 8:000781.
