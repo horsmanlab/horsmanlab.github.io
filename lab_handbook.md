@@ -60,9 +60,5 @@ Meetings are mandatory for all members and provide an opportunity to share ideas
     (iii) quantity required<br/>
     Please verify these details (including availability) on the supplier website prior to contacting me.<br/>
     
-### Professionalism and Code of Conduct<br/>
-- We treat each other with respect. Disrespectful conduct will not be tolerated. This extends beyond the lab - how we conduct ourselves with other students and staff members affects the reputation of the entire lab.<br/>
-- Speak to me if you have concerns about your interactions with other lab members.<br/>
-- If you have concerns about your interactions with me, or you feel I have not properly addressed other concerns, you may contact your program coordinator or Department chair. The [Office of Human Rights and Conflict Management](https://students.wlu.ca/wellness-and-recreation/dispute-resolution/index.html) is an excellent resource.
-- I will work with you to set work hours and leave (illness, vacation time). Other aspects to your life are equally important and should be carefully protected. The amount of time invested in research is correlated to research outcomes and degree completion times.<br/>
+
 
