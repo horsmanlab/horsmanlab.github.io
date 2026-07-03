@@ -6,7 +6,7 @@ Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content 
 ![Lanyon with open sidebar](https://f.cloud.github.com/assets/98681/1825267/be04a914-71b0-11e3-966f-8afe9894c729.png)
 
 
-## Contents
+## Contentss
 
 - [Usage](#usage)
 - [Options](#options)
