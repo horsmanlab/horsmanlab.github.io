@@ -33,5 +33,5 @@ Change to low-flow needle and remove sweep cone.
 		- Uses 1280 peak for calibration (can use positive solution)
 		- Normally your multiplier’s will calibrate ~100 volt higher than in positive
 
-<iframe src="https://drive.google.com/file/d/1vcJcX3uO14d9Zb8UBsLSqM_LJuzPMjns/view" width="100%" height="700px" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1vcJcX3uO14d9Zb8UBsLSqM_LJuzPMjns/preview" width="100%" height="700px" frameborder="0" allowfullscreen></iframe>
 
