@@ -19,7 +19,7 @@ title: Protocols & Inventory
 
 [DNA sequencing analysis tips](https://drive.google.com/file/d/1RX2QlJdZyvyAVMPZuMttv-Xa5h1q2BmW/view)<br/>
 
-[-80C Freezer](https://docs.google.com/spreadsheets/d/1HxAm92bXlcBUobE7sIfbLG-8IY8D7ciy/view)<br/>
+[-80C Freezer](https://docs.google.com/spreadsheets/d/1HxAm92bXlcBUobE7sIfbLG-8IY8D7ciy/edit?usp=sharing)<br/>
 
 [MS Calibration Solutions](https://drive.google.com/file/d/14vKXDdzLQKD3vSGPWPZguHn8l_LrKBUM/view)
 
