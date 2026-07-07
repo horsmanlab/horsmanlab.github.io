@@ -5,7 +5,7 @@ title: Duties
 
 ## 2024
 
-<embed src="/Lab_Duties_2021.pdf" width="800px" height="1000px" /><br/><br/>
+<embed src="/https://drive.google.com/file/d/14h9R-1qMKwPyIA47oOJfz85fsGpWc-AS/view" width="800px" height="1000px" /><br/><br/>
 
 
 ### **Autoclave Waste**
