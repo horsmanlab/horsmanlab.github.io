@@ -25,9 +25,9 @@ title: Protocols & Inventory
 
 [MS Calibration](/Protocols/cal.md)<br/>
 
-[LTQ Getting Started Manual] (https://drive.google.com/file/d/1HPi46g3NHxByIS3dhwhG7MRtX2Bt3sYW/view)<br/>
+[LTQ Getting Started Manual](https://drive.google.com/file/d/1HPi46g3NHxByIS3dhwhG7MRtX2Bt3sYW/view)<br/>
 
-[LTQ Full Hardware Manual] (https://drive.google.com/file/d/1pEmC_RWlsg3hK5FCWhPUo4mScvudruF-/view)
+[LTQ Full Hardware Manual](https://drive.google.com/file/d/1pEmC_RWlsg3hK5FCWhPUo4mScvudruF-/view)
 
 
 
