@@ -21,5 +21,6 @@ title: Protocols & Inventory
 
 [-80C Freezer](/Protocols/-80_Freezer.xlsx)<br/>
 
-[MS calibration solutions](https://raw.githubusercontent.com/horsmanlab/horsmanlab.github.io/main/Protocols/Cal_solutions.pdf)<br/>
+MS Calibration Solutions
+<iframe src="https://raw.githubusercontent.com/horsmanlab/horsmanlab.github.io/main/Protocols/Cal_solutions.pdf" width="100%" height="700px" frameborder="0"></iframe>
 
