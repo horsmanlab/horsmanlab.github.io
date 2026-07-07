@@ -26,11 +26,12 @@ o	High and normal gain multiiplier voltage ~-755V (will decrease by -20V every 2
 o	The two multipliers will be 20-50V different, no problem
 o	Can do a check every month and if it passes don’t need to calibrate; but if multiplier fails you have to do everything; multipliers often change more early in their life.
 o	After positive, do negative
-	Spray voltage 2.5-3 kV (bit lower) than positive
-	Usually a bit more sheath gas (increase from 10-20)
-	Often negative works better if you move the probe back a bit
-	If increase tube lens voltage, change ultramark series from xx80 to xx06 (use -100 V tube lens)
-	Uses 1280 peak for calibration (can use positive solution)
-	Normally your multiplier’s will calibrate ~100 volt higher than in positive
+	- Spray voltage 2.5-3 kV (bit lower) than positive
+	- Usually a bit more sheath gas (increase from 10-20)
+	- Often negative works better if you move the probe back a bit
+	- If increase tube lens voltage, change ultramark series from xx80 to xx06 (use -100 V tube lens)
+	- Uses 1280 peak for calibration (can use positive solution)
+	- Normally your multiplier’s will calibrate ~100 volt higher than in positive
 
 <iframe src="https://drive.google.com/file/d/1vcJcX3uO14d9Zb8UBsLSqM_LJuzPMjns/view" width="100%" height="700px" frameborder="0" allowfullscreen></iframe>
+
